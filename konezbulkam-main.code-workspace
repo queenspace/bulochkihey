@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Гаевой ИС2А/pop up js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "konezbulkam-main"
+	}
+}
